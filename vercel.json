@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "odds_xg.py",       
+        "use": "@vercel/python"                 
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",             
+        "dest": "odds_xg.py"        
+      }
+    ]
+  }
