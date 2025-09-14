@@ -1,7 +1,8 @@
-streamlit
-pandas
+gradio
 requests
-beautifulsoup4
-lxml
+#streamlit
+#pandas
+#beautifulsoup4
+#lxml
 #scipy
 #numpy
